@@ -131,6 +131,12 @@ fieldset div {
     margin: 10px;
 }
 
+button {
+    background-color: darkolivegreen;
+    color: white;
+    padding: 7px 17px;
+}
+
 
 /* FOOTER */
 
